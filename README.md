@@ -1,2 +1,2 @@
-# numerical
-Here's the place where numerical algorithms live
+# Численные методы (ii семестр)
+Это репозиторий, где будут лежать численные методы
