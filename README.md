@@ -4,4 +4,4 @@
 Реализованы методы по темам:
 * [Интегрирование](https://github.com/electrofocus/numerical/blob/master/integrals.ipynb)
 * [Решение дифференциальных уравнений](https://github.com/electrofocus/numerical/blob/master/diff_eqs.ipynb)
-* [~~Решение систем дифференциальных уравнений~~](https://github.com/electrofocus/numerical/blob/master/diff_eqs_systems.ipynb)
+* [Решение уравнения колебания струны](https://github.com/electrofocus/numerical/blob/master/wave_equation.ipynb)
